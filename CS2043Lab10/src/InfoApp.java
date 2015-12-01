@@ -10,6 +10,8 @@ public class InfoApp {
 		west.printWestfield();
 		InfoPrintZotov zotov = new InfoPrintZotov();
 		zotov.printZotov();
+		InfoPrintCarr carr = new InfoPrintCarr();
+		carr.printCarr();
 	}
 
 }
