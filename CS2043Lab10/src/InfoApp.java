@@ -12,6 +12,8 @@ public class InfoApp {
 		zotov.printZotov();
 		InfoPrintCarr carr = new InfoPrintCarr();
 		carr.printCarr();
+		InfoPrintWood wood = new InfoPrintWood();
+		wood.printWood();
 	}
 
 }
