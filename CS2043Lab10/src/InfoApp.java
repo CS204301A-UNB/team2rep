@@ -8,6 +8,8 @@ public class InfoApp {
 		meneley.printMeneley();
 		InfoPrintWestfield west = new InfoPrintWestfield();
 		west.printWestfield();
+		InfoPrintZotov zotov = new InfoPrintZotov();
+		zotov.printZotov();
 	}
 
 }
