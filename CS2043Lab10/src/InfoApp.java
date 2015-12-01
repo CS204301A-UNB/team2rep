@@ -7,5 +7,6 @@ public class InfoApp {
 		InfoPrintZotov printZotov = new InfoPrintZotov();
 		printZotov.printZotov();
 	}
+	//comment
 
 }
